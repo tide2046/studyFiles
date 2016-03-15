@@ -1,2 +1,5 @@
 # studyFiles
-一些NodeJS和前端的学习笔记，Koa+MongoDB+MySQL+JavaScript+Bootstrap+React+jQuery等等
+涓�浜汵odeJS鍜屽墠绔殑瀛︿範绗旇锛孠oa+MongoDB+MySQL+JavaScript+Bootstrap+React+jQuery绛夌瓑
+
+*鍘熷垱鏂囩珷杞浇璇锋敞鏄庯細*
+*杞浇鑷細https://github.com/a1511870876*
