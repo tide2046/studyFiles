@@ -4,7 +4,6 @@
 代码注释已经非常详细，就不多做说明，需要的朋友自己查看代码即可，主文件Mail.js，截图文件capturePart1.js，capturePart2.js，capturePart3.js，这里只展示了capturePart1.js其他两个类似。值得注意的是有登录权限的网站一定要设置Cookie，需要截取高质量图片的话截取时间一定设置长一些。
 ### Mail.js
 ```
-
     *                                     定时发送邮件功能说明：
     *       node.js必备安装模块：node_modules-->phantomjs，nodemailer，node-schedule，moment
     *       涉及JS文件：route-->mail.js，public-->js-->capturePart1.js，capturePart2.js，capturePart3.js
@@ -22,7 +21,6 @@
     *           改变截图功能请修改public-->js-->server.js
     *           改变定时功能请修改变量rule
     *                                                           ------Sweety
-```
 //组件引入开始
 var schedule = require("node-schedule");
 var path = require('path');
@@ -30,7 +28,6 @@ var childProcess = require('child_process');
 var phantomjs = require('phantomjs');
 var nodemailer = require("nodemailer");
 var moment = require("moment");
-```
 //组件引入结束
 /*--------------------------------------------------------------------------------------------------------------------------------------------*/
 //变量定义开始
@@ -165,9 +162,7 @@ function sent(){
     });
 }
 //nodemailer发送邮件结束
-
 function changeData(){
-
 }
 /*---------------------------------------------------------------------------------------------------------------------------------------------*/
 ```
