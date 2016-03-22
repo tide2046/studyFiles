@@ -120,7 +120,7 @@ Koa-onerror使用方法：
 	router.del()
 	router.patch()
 ```  
-GET方法举例：
+　　GET方法举例：
 ```  
 	var app = require('koa')();
 	var Router = require('koa-router');
