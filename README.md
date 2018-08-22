@@ -26,6 +26,9 @@ ps:
 > 如果你喜欢可以标注：*转载自：https://github.com/threerocks*   
 > *方便的话可以提示star*
 
+## 关于下载速度慢
+特别感谢[vimiix](https://github.com/vimiix)提出[解决方案](https://github.com/threerocks/studyFiles/issues/20)
+
 ## 特殊说明
 因为一些原因，视频资源（慕课网+实验楼+极客学院...）**停止更新**，并删除所有相关信息。   
 
