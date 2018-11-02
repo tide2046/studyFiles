@@ -10,7 +10,8 @@ ps:
 
 > <span style="color: red">如果不喜欢此共享方式，请点击关闭窗口</span>   
 > 如果你认同，请点击star，如果恰好你手上也有一些好的资源方便大家分享，欢迎上传（`pull request`）
-
+## 更新
+本人最近在学习go语言，新增很多go语言电子书和资料，包括一篇[资源总结](https://github.com/threerocks/studyFiles/blob/master/go/go%E6%95%99%E7%A8%8B.md)
 ## 历史
 原本是私人项目，目的是方便不同场合共享阅读并把一些优质书籍存留。   
 2016年底意外收获很多朋友的喜欢并提起`pull request`，故公开项目，持续维护。
